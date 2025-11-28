@@ -30,10 +30,14 @@ python run_elm.py output_dir=logs env=textsum model.model_path=meta-llama/Llama-
 
 ```bibtex
 @article{NguyenLuongKBS2025,
-    author = {Thai Huy Nguyen and Ngoc Hoang Luong},
     title = {Diverse and High-Quality Text Generation Assisted by Large Language Models},
     journal = {Knowledge-Based Systems},
-    year = {2025}
+    pages = {114954},
+    year = {2025},
+    issn = {0950-7051},
+    doi = {https://doi.org/10.1016/j.knosys.2025.114954},
+    url = {https://www.sciencedirect.com/science/article/pii/S0950705125019926},
+    author = {Thai Huy Nguyen and Ngoc Hoang Luong}
 }
 ```
 
